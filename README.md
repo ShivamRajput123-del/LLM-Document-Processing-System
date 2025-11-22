@@ -99,9 +99,4 @@ The architecture includes the following layers:
 - Quality evaluation using LLM scoring metrics  
 :contentReference[oaicite:10]{index=10}
 
----
 
-## 🙏 Acknowledgement  
-Thank you for reviewing our project!  
-This system showcases the capability of LLMs in automating complex document workflows for real enterprise use cases.  
-:contentReference[oaicite:11]{index=11}
